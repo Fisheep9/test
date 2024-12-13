@@ -1,6 +1,3 @@
 # test
 
-# dev first commit
-
-update
->>>>>>> dev
+123
